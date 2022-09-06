@@ -1,5 +1,7 @@
 # Web Chat (messenger)
 
+#### Click [Deployed build on Netlify](https://fancy-biscuit-fe12f7.netlify.app/) to open the messenger.
+
 ## Available Scripts
 
 In the project directory, you can run:
